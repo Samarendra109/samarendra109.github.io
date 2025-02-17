@@ -13,3 +13,12 @@ RUN apt-get install -y vim
 
 # Install Git
 RUN apt-get -y install git
+
+# Install Brew And Hugo
+RUN apt-get -y install curl
+RUN '' | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+RUN echo >> /root/.bashrc
+RUN echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> /root/.bashrc
+RUN eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+#RUN /home/linuxbrew/.linuxbrew/bin/brew install hugo (Install Hugo)
+
