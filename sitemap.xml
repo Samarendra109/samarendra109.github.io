@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://samarendra109.github.io/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bags/</loc>
+    <loc>https://samarendra109.github.io/bags/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bags/tag/</loc>
+    <loc>https://samarendra109.github.io/bags/tag/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/post/</loc>
+    <loc>https://samarendra109.github.io/posts/post/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://samarendra109.github.io/posts/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/</loc>
+    <loc>https://samarendra109.github.io/articles/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://samarendra109.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://samarendra109.github.io/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>https://samarendra109.github.io/publications/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://samarendra109.github.io/tags/</loc>
   </url>
 </urlset>
