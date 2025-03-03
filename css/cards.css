@@ -1,0 +1,41 @@
+.one {
+  width: 160px;
+  height: 160px;
+  position: relative;
+}
+
+.cardtable {
+  width: 100%;
+  border: 0px;
+  border-spacing: 0px;
+  border-collapse: separate;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.cardentry {
+  display: grid;
+  grid-template-areas:
+  'cimage ccontent ccontent ccontent ccontent';
+}
+
+.cardimage {
+  grid-area: cimage;
+  padding: 16px;
+  width: 20%;
+  vertical-align: middle;
+}
+
+.cardcontent {
+  grid-area: ccontent;
+  padding: 8px;
+  width: 80%;
+  vertical-align: middle;
+}
+
+@media only screen and (max-width: 600px) {
+  .cardtable {
+    /*background-color: lightblue;*/
+    display: none;
+  }
+}
