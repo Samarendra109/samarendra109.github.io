@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bags on Samarendra Dash</title>
-    <link>https://samarendra109.github.io/bags/</link>
+    <link>http://localhost:1313/bags/</link>
     <description>Recent content in Bags on Samarendra Dash</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://samarendra109.github.io/bags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/bags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post</title>
-      <link>https://samarendra109.github.io/bags/tag/</link>
+      <link>http://localhost:1313/bags/tag/</link>
       <pubDate>Mon, 17 Feb 2025 04:42:38 +0000</pubDate>
-      <guid>https://samarendra109.github.io/bags/tag/</guid>
+      <guid>http://localhost:1313/bags/tag/</guid>
       <description>&lt;h2 id=&#34;hello&#34;&gt;Hello&lt;/h2&gt;&#xA;&lt;h3 id=&#34;world&#34;&gt;World&lt;/h3&gt;&#xA;&lt;p&gt;People&lt;/p&gt;&#xA;&lt;h2 id=&#34;hello1&#34;&gt;Hello1&lt;/h2&gt;&#xA;&lt;h3 id=&#34;world1&#34;&gt;World1&lt;/h3&gt;&#xA;&lt;p&gt;People&lt;/p&gt;</description>
     </item>
   </channel>
