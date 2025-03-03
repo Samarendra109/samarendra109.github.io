@@ -37,5 +37,6 @@
   .cardtable {
     /*background-color: lightblue;*/
     display: none;
+    width: 25%;
   }
 }
